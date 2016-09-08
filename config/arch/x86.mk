@@ -1,4 +1,4 @@
-# Config for core2 32 bits
+# Config for x86 platofm, core2 CPUs in 32 bit mode
 
 AUTOCONF_BUILD = i686-pc-linux-gnu
 

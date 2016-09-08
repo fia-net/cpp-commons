@@ -1,5 +1,4 @@
-# Fichier de configuration pour la compilation sur RHEL6 x86_64 compilation 32 bits, Sybase 15.7, Postgresql repo PGDG
-#
+# Configuration file for FIA-NET cpp-commons
 
 export FIANET_COMMONS_CONFIG_DIR=$(FIANET_COMMONS_DIR)/config
 
